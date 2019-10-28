@@ -46,14 +46,14 @@ Public Class goip_updater
     End Function
 
     Public Function set_autostart(ByVal AutostartEnable As Boolean)
-        Dim key As Microsoft.Win32.RegistryKey = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Run", True)
-        If AutostartEnable = True Then
-            key.SetValue(My.Application.Info.AssemblyName, System.Reflection.Assembly.GetEntryAssembly.Location)
-        Else
-            key.DeleteValue(My.Application.Info.AssemblyName, False)
-        End If
-        key.Close()
-        Return AutostartEnable
+        'Dim key As Microsoft.Win32.RegistryKey = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Run", True)
+        'If AutostartEnable = True Then
+        '    key.SetValue(My.Application.Info.AssemblyName, System.Reflection.Assembly.GetEntryAssembly.Location)
+        'Else
+        '    key.DeleteValue(My.Application.Info.AssemblyName, False)
+        'End If
+        'key.Close()
+        'Return AutostartEnable
     End Function
 
     Public Function get_version()

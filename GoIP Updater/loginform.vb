@@ -27,6 +27,7 @@ Public Class loginform
                 Me.ShowIcon = False
                 Me.ShowInTaskbar = False
 
+
                 'Autologin ist aktiv. Versuchen wir den Login
                 If goip.try_login(My.Settings.username, My.Settings.passwort, My.Settings.subdomain) = True Then
                     Me.Hide()

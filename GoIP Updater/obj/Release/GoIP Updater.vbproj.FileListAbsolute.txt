@@ -11,3 +11,16 @@ C:\OneDrive\Developement\GoIP Updater\GoIP Updater\GoIP Updater\obj\Release\GoIP
 C:\OneDrive\Developement\GoIP Updater\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.xml
 C:\OneDrive\Developement\GoIP Updater\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.pdb
 C:\OneDrive\Developement\GoIP Updater\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.vbprojAssemblyReference.cache
+C:\Projekte\GoIP Updater\GoIP Updater\bin\Release\GoIP Updater.exe.config
+C:\Projekte\GoIP Updater\GoIP Updater\bin\Release\GoIP Updater.exe
+C:\Projekte\GoIP Updater\GoIP Updater\bin\Release\GoIP Updater.pdb
+C:\Projekte\GoIP Updater\GoIP Updater\bin\Release\GoIP Updater.xml
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.vbprojAssemblyReference.cache
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP_Updater.loginform.resources
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP_Updater.Resources.resources
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP_Updater.updater.resources
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.vbproj.GenerateResource.cache
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.vbproj.CoreCompileInputs.cache
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.exe
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.xml
+C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.pdb
