@@ -108,7 +108,7 @@ Partial Class loginform
         Me.lbl_version.Name = "lbl_version"
         Me.lbl_version.Size = New System.Drawing.Size(29, 19)
         Me.lbl_version.TabIndex = 9
-        Me.lbl_version.Text = "1.12"
+        Me.lbl_version.Text = "1.14"
         '
         'cb_autologin
         '
@@ -185,7 +185,7 @@ Partial Class loginform
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(191, 19)
         Me.Label8.TabIndex = 17
-        Me.Label8.Text = "© 2019 Lukas Dörr - RZDEV.DE"
+        Me.Label8.Text = "© 2021 Lukas Dörr - RZDEV.DE"
         '
         'loginform
         '

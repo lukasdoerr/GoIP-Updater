@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("Aktualisiert im Interval die IP für DynDNS von GoIP")>
 <Assembly: AssemblyCompany("RZDEV.DE")>
 <Assembly: AssemblyProduct("GoIP Updater")>
-<Assembly: AssemblyCopyright("Copyright © Lukas Dörr | RZDEV.DE 2019")>
+<Assembly: AssemblyCopyright("Copyright © Lukas Dörr | RZDEV.DE 2021")>
 <Assembly: AssemblyTrademark("GoIP Updater")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' übernehmen, indem Sie "*" eingeben:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.1.3.0")>
+<Assembly: AssemblyVersion("1.1.4.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>

@@ -11,8 +11,9 @@ Public Class loginform
 
         'Wir prüfen zuerst, ob eine Verbindung zum Internet vorhanden ist.
         If goip.try_connection() = False Then
-            MsgBox("Keine Internetverbindung. Verbinden Sie Ihr Gerät zuerst mit dem Internet.", MsgBoxStyle.Critical, "Keine Verbindung")
-            End
+            MsgBox("Keine Internetverbindung. Bitte beachten Sie, dass es zu Problemen der Software kommen kann, wenn keine Verbindung zum Internet vorhanden ist." & vbNewLine & vbNewLine &
+                   "Sie können sich trotzdem anmelden.", MsgBoxStyle.Critical, "Keine Verbindung")
+
         Else
             'Prüfen ob autologin vorhanden.
             If My.Settings.autologin = True Then

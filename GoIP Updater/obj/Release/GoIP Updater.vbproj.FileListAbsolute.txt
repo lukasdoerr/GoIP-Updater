@@ -24,3 +24,15 @@ C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.vbproj.CoreCompil
 C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.exe
 C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.xml
 C:\Projekte\GoIP Updater\GoIP Updater\obj\Release\GoIP Updater.pdb
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\bin\Release\GoIP Updater.exe.config
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\bin\Release\GoIP Updater.exe
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\bin\Release\GoIP Updater.pdb
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\bin\Release\GoIP Updater.xml
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP Updater.vbprojAssemblyReference.cache
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP_Updater.loginform.resources
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP_Updater.Resources.resources
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP_Updater.updater.resources
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP Updater.vbproj.GenerateResource.cache
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP Updater.exe
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP Updater.xml
+C:\Users\smb\Documents\Developement\GoIP-Updater\GoIP Updater\obj\Release\GoIP Updater.pdb

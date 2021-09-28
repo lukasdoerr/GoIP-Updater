@@ -11,7 +11,7 @@ Public Class goip_updater
 
         Try
             'Versuche eine Verbindung zu RZDEV.DE herzustellen
-            webRequest = WebRequest.Create("https://rzdev.de/")
+            webRequest = WebRequest.Create("https://google.com/")
             webresponse = webRequest.GetResponse()
             inStream = New StreamReader(webresponse.GetResponseStream())
 

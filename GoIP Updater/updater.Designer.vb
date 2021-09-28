@@ -69,7 +69,7 @@ Partial Class updater
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(180, 17)
         Me.Label8.TabIndex = 18
-        Me.Label8.Text = "© 2019 Lukas Dörr - RZDEV.DE"
+        Me.Label8.Text = "© 2021 Lukas Dörr - RZDEV.DE"
         '
         'lbl_version
         '
@@ -78,7 +78,7 @@ Partial Class updater
         Me.lbl_version.Name = "lbl_version"
         Me.lbl_version.Size = New System.Drawing.Size(28, 17)
         Me.lbl_version.TabIndex = 20
-        Me.lbl_version.Text = "1.12"
+        Me.lbl_version.Text = "1.14"
         '
         'Label4
         '
